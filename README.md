@@ -1,1 +1,1 @@
-# ebuy.store_code
+# eBuy.store_code
